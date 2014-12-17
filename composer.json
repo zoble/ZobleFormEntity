@@ -1,0 +1,19 @@
+{
+    "name": "zoble/form-entity",
+    "description": "Generate HTML output form from an Entity",
+    "authors": [
+        {
+            "name": "Reginaldo Azevedo Junior",
+            "email": "rjuniorbrasilia@gmail.com"
+        },
+        {
+            "name": "Johnny Fagundes",
+            "email": "fagundesjohnny@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zendframework": "2.*",
+        "doctrine/doctrine-orm-module": "0.*"           
+    }
+}
