@@ -40,11 +40,4 @@ class Module
         return include __DIR__ . '/../../config/module.config.php';
     }
 
-    /**
-     * {@inheritDoc}
-     */
-    public function getConsoleUsage(Console $console)
-    {
-        
-    }
 }
